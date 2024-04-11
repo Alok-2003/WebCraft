@@ -26,7 +26,7 @@ body{
 .one h1 {
   font-family: "aileron",sans-serif;
   font-size: 68px;
-  color: rgba(0, 0, 0, 0.712);
+  color: rgba(0, 0, 0, 0.790);
   text-align: start;
   margin: 0;
   font-weight: 100;
@@ -71,7 +71,7 @@ body{
 }
 .five span {
   font-family: "Roboto", sans-serif;
-  color: rgba(0, 0, 0, 0.712);
+  color: rgba(0, 0, 0, 0.790);
   font-weight: 600;
 }
 .five h3 {
