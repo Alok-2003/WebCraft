@@ -15,7 +15,7 @@ function App() {
           <h3>Web Developers Coursera Course</h3>
         </div>
         <div>
-          <img src="src\assets\face.jpg" alt="" />
+          <img src="public\face.jpg" alt="" />
         </div>
       </div>
       <div className='two' >
@@ -58,11 +58,8 @@ function App() {
           </div>
         </div>
         <div>
-        <img src="src\assets\icone-github-grise.png" alt="" />
+        <img src="public\icone-github-grise.png" alt="" />
         </div>
-      </div>
-      <div className='box' >
-      {/* <i class="fa-brands fa-github" style="color: #bfbfc0;"></i> */}
       </div>
       
     </div>
