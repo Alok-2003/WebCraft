@@ -1,0 +1,87 @@
+#root {
+  max-width: 100vw;
+  height: 83.8vh;
+  /* margin: 0 auto; */
+
+}
+body{
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  border-bottom: 24px solid #e44c27 ;
+}
+.whole {
+  margin: 0rem 9rem;
+}
+.one {
+  display: flex;
+  justify-content: space-between;
+  font-family: "aileron";
+  margin-top: 5rem;
+}
+
+.one h1 {
+  font-family: "aileron",sans-serif;
+  font-size: 68px;
+  color: gray;
+  text-align: start;
+  margin: 0;
+  font-weight: 100;
+}
+.one h3 {
+  font-family: "aileron", sans-serif;
+  font-size: 30px;
+  color: gray;
+  text-align: start;
+  margin: 0;
+  font-weight: 100;
+}
+.two {
+  display: flex;
+  justify-content: space-between;
+}
+.two img{
+  height: 65px;
+}
+.three {
+  display: flex;
+  font-family: "Roboto", sans-serif;
+}
+.four {
+  display: flex;
+  margin-right: 10px;
+}
+.four p {
+  font-size: 30px;
+  margin: 0;
+  text-align: start;
+  margin-bottom: 2px;
+}
+.four span2 {
+  color: gray;
+  font-size: 26px;
+}
+.five {
+  display: block;
+  align-items: start;
+  margin-bottom: 5rem;
+}
+.five span {
+  font-family: "Roboto", sans-serif;
+  color: rgba(0, 0, 0, 0.712);
+  font-weight: 600;
+}
+.five h3 {
+  font-size: 30px;
+}
+.six {
+  margin-bottom: 2rem;
+}
+.seven {
+  margin-left: 10px;
+}
+.box{
+color: red;
+height: 10px;
+border: 5px;
+}
