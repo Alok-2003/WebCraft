@@ -26,7 +26,7 @@ body{
 .one h1 {
   font-family: "aileron",sans-serif;
   font-size: 68px;
-  color: gray;
+  color: rgba(0, 0, 0, 0.712);
   text-align: start;
   margin: 0;
   font-weight: 100;
