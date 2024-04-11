@@ -15,7 +15,7 @@ function App() {
           <h3>Web Developers Coursera Course</h3>
         </div>
         <div>
-          <img src="public\face.jpg" alt="" />
+        <img src="/face.jpg" alt="" />
         </div>
       </div>
       <div className='two' >
@@ -58,7 +58,7 @@ function App() {
           </div>
         </div>
         <div>
-        <img src="public\icone-github-grise.png" alt="" />
+        <img src="icone-github-grise.png" alt="" />
         </div>
       </div>
       
